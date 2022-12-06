@@ -1,2 +1,2 @@
-waitress==1.4.4
+waitress==2.1.2
 manila==7.2.0
